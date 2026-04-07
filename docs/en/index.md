@@ -1,7 +1,3 @@
-# Clinvya
-
-## [Official website](https://clinvya.com)  
-
 🇺🇸 Documentation English version.
 
 [🇧🇷 Ver em português](../)

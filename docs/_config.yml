@@ -30,8 +30,10 @@ plugins:
 minima:
   skin: classic
   social_links:
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/viniciusduartereis/" }
-    - { platform: github, user_url: "https://github.com/viniciusduartereis" }
+    - platform: linkedin
+      user_url: "https://www.linkedin.com/in/viniciusduartereis/"
+    - platform: github
+      user_url: "https://github.com/viniciusduartereis"
 
 # Navegação
 header_pages:

@@ -1,4 +1,4 @@
-# [Clinvya](https://clinvya.com)
+# Clinvya
 
 🇺🇸 Documentation English version.
 

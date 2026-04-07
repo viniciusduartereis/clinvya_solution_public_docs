@@ -1,9 +1,0 @@
-name: Render Mermaid
-on: [push, pull_request]
-jobs:
-  render-mermaid:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Render Mermaid
-        uses: mgjm/render-md-mermaid@v1

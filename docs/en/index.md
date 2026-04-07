@@ -1,6 +1,4 @@
-# Clinical Management Platform
-
-🇺🇸 English version.
+🇺🇸 Documentation English version.
 
 [🇧🇷 Ver em português](../)
 

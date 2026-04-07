@@ -1,5 +1,3 @@
-# Plataforma de Gestão Clínica com IA
-
 🇧🇷 Documentação na Versão em português.  
 
 [🇺🇸  Read in English](./en/)

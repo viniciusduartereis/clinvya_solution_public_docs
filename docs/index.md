@@ -178,7 +178,7 @@ Ideal para clínicas de saúde que buscam modernizar seus processos com tecnolog
 
 ## Arquitetura
 
-```mermaid
+<div class="mermaid">
 graph TB
     A[Cliente Browser] --> B[Frontend Next.js]
     B --> C[Backend .NET API]
@@ -212,7 +212,10 @@ graph TB
     class C,M backend
     class D auth
     class E db
-```
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
 
 **Visão Geral da Arquitetura:**
 - **Frontend**: Next.js hospedado na Azure, interface responsiva para profissionais e pacientes

@@ -7,10 +7,8 @@ baseurl: ""
 # Idioma e região
 lang: pt-BR
 
-# Autor
-author:
-  name: "Vinicius Duarte Reis"
-  url: "https://www.linkedin.com/in/viniciusduartereis/"
+# Autor (string simples)
+author: "Vinicius Duarte Reis"
 
 # SEO
 tagline: "Menos burocracia. Mais tempo com o paciente."
@@ -28,14 +26,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Configurações do tema Minima
+# Tema Minima e links sociais
 minima:
   skin: classic
-
-# Links sociais (aparecem no rodapé do tema Minima)
-social_links:
-  - { platform: linkedin, user_url: "https://www.linkedin.com/in/viniciusduartereis/" }
-  - { platform: github, user_url: "https://github.com/viniciusduartereis" }
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/viniciusduartereis/" }
+    - { platform: github, user_url: "https://github.com/viniciusduartereis" }
 
 # Navegação
 header_pages:

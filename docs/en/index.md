@@ -1,8 +1,8 @@
-# Clinvya
+# Clinical Management Platform
 
 🇺🇸 English version.
 
-[Ver em português](../)
+[🇧🇷 Ver em português](../)
 
 ✨ **Clinvya** transforms consultations into clinical documentation automatically using AI — significantly reducing clinical bureaucracy, potentially up to 1h/day of manual work per professional. **Keywords: clinical management SaaS, AI in healthcare, digital records, medical scheduling, clinical financial control.**
 

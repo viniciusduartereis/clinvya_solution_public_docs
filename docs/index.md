@@ -1,8 +1,8 @@
-# Clinvya
+# Plataforma de Gestão Clínica com IA
 
-🇧🇷 Versão em português.  
+🇧🇷 Documentação na Versão em português.  
 
-[Read in English](./en/)
+[🇺🇸  Read in English](./en/)
 
 ✨ **Clinvya** transforma consultas em documentação clínica automaticamente usando IA — reduzindo significativamente a burocracia clínica, podendo chegar a até 1h/dia de trabalho manual por profissional.
 

@@ -62,12 +62,8 @@ Desenvolvido em aproximadamente 3 meses, com foco em validação rápida sem abr
 - 🩻 Integração com convênios (Open Health)  
 - 🤖 Evolução do motor de IA para sugestões clínicas assistidas  
 - 🔔 Lembretes com CTA de confirmação  
-- 📲 Checkin diário do paciente  
-- 🏥 Expansão para multi-clínicas e redes  
 - 🧾 NF-e automática  
 - ✍️ Assinatura digital de documentos  
-- 📊 Financeiro em PDF/Excel  
-- 📅 Integração de feriados no calendário  
 
 A Clinvya está em evolução contínua com foco em se tornar uma plataforma completa de gestão clínica inteligente.
 

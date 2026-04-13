@@ -60,12 +60,8 @@ Developed in approximately 3 months, with a focus on rapid validation without co
 - 🩻 Health plan integrations (Open Health)  
 - 🤖 AI engine evolution for assisted clinical suggestions  
 - 🔔 Reminders with confirmation CTA  
-- 📲 Daily patient check-in  
-- 🏥 Expansion to multi-clinics and networks  
 - 🧾 Automatic NF-e (Brazilian invoice)  
 - ✍️ Digital signature for documents  
-- 📊 Financial reports in PDF/Excel  
-- 📅 Holiday integration in calendar  
 
 Clinvya is in continuous evolution with a focus on becoming a complete intelligent clinical management platform.
 
